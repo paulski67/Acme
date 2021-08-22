@@ -1,0 +1,16 @@
+
+* store the tickets (stories, cards, bugs) - in a subdir of the repo, or a branch?
+
+* merge strategy - if in branch, we can automate, if in subdir, must be human readable
+
+* branch work?
+  - if closed in a branch, how do we handle that when branch merged? (seperate command)
+  $ git merge branch_name; tic merge
+
+* Lighthouse integration
+  $ tic sync
+
+States - open, resolved, invalid, hold
+
+Assignment - user/email
+

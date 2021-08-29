@@ -1,4 +1,3 @@
-
 * store the tickets (stories, cards, bugs) - in a subdir of the repo, or a branch?
 
 * merge strategy - if in branch, we can automate, if in subdir, must be human readable
@@ -13,4 +12,6 @@
 States - open, resolved, invalid, hold
 
 Assignment - user/email
+
+Update Requirements
 
